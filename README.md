@@ -1,4 +1,4 @@
-# Recent-Activity-in-44-517-02-Group-6-PyFlink-PageRank
+# Big Data-PyFlink-PageRank
 
 ### Project Description
 
@@ -14,7 +14,7 @@ Subtopic:
 
 Subtopic:
 
-### Thomas Tran
+### [Thomas Tran](https://github.com/thomastran7)
 
 Subtopic:
 
