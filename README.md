@@ -6,7 +6,7 @@ I honestly have no clue
 
 # Members:
 
-### Matteo Antunez
+### [Matteo Antunez](https://github.com/matteoantunez)
 
 Subtopic:
 
@@ -18,6 +18,6 @@ Subtopic:
 
 Subtopic:
 
-### James Mullaney
+### [James Mullaney](https://github.com/JamesRMullaney)
 
 Subtopic: 
