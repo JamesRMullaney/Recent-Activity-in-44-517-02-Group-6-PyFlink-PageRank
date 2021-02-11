@@ -1,19 +1,23 @@
 # Recent-Activity-in-44-517-02-Group-6-PyFlink-PageRank
 
+### Project Description
+
+I honestly have no clue
+
 # Members:
 
 ### Matteo Antunez
 
-Role:
+Subtopic:
 
 ### Francesca Infranca
 
-Role:
+Subtopic:
 
 ### Thomas Tran
 
-Role:
+Subtopic:
 
 ### James Mullaney
 
-Role: 
+Subtopic: 
