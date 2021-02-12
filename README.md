@@ -21,10 +21,11 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 |---|---|---|---| 
 
 ## Subtopics:
-    - Installation 
-    - PageRank job 1
-    - PageRank job 2
-    - PageRank job 3
+
+- Installation 
+- PageRank job 1
+- PageRank job 2
+- PageRank job 3
 
 ## Resources
 * https://www.tablesgenerator.com/markdown_tables#
