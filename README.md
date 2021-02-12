@@ -23,3 +23,4 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 
 ## Resources
 * https://www.tablesgenerator.com/markdown_tables#
+* https://xebia.com/blog/wiki-pagerank-with-hadoop/
