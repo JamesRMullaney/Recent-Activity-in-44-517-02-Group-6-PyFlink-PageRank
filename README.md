@@ -24,7 +24,7 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 
 - Installation 
 - PageRank job 1
-- PageRank job 2
+- PageRank job 2: Calculate new Page rank, worked on by James Mullaney
 - PageRank job 3
 
 ## Resources
