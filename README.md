@@ -1,4 +1,4 @@
-# This is A Big Data Tool
+# Big Data: PyFlink & 
 For the project itself, we need to decide on a Big Data tool that is either covered in class or on our own. Each person will be designated a sub-topic (i.e. Specific Function / Method; Certain Data Processing Structure).
 
 ## Group Tasks
@@ -7,14 +7,19 @@ For the project itself, we need to decide on a Big Data tool that is either cove
     - [ ] Hyperlinks to Individual Profiles
     - [ ] Insert image / headshot
         - Idea: Hyperlink images to repos with fallback links at the bottom
-- [ ] Decide on group
-
-
-## Individual Tasks
+- [ ] Decide on details
+    - [X] Big Data tool (In group title?!)
+    - [ ] Programming language
+    - [ ] Data source(s) 
+    - [ ] Sub-topics for each member (Note: 4 Members total?)
 
 ----
 
 ## Members:
+
+|   |   |   |   |
+|Matteo Antunez|Francesca Infranca|Thomas Tran|James Mullaney| 
+
 
 ### [Matteo Antunez](https://github.com/matteoantunez)
 
