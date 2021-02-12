@@ -10,15 +10,17 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 - [ ] Decide on details
     - [X] Big Data tool (In group title?!)
     - [ ] Programming language
+        - Python Language w/ 
     - [ ] Data source(s) 
+        - Note: Data sources will be URL since web scraping is invovled
     - [ ] Sub-topics for each member (Note: 4 Members total?)
 
 ----
 
 ## Members:
 
-| ![Matteo Portrait](img/IMG_1091.JPG)[Matteo Antunez](https://github.com/matteoantunez)  | Francesca Infranca  | [Thomas Tran](https://github.com/thomastran7)  | [James Mullaney](https://github.com/JamesRMullaney)  |
-|---|---|---|---| 
+| [![Matteo Portrait](imgs\IMG_1091.JPG)](https://github.com/matteoantunez) [Subtopic A:](404)  | Francesca Infranca  | [Thomas Tran](https://github.com/thomastran7)  | [James Mullaney](https://github.com/JamesRMullaney)  |
+|:---:|:---:|:---:|:---:| 
 
 
 ## Resources
