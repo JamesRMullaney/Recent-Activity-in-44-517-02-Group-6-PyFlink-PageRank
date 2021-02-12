@@ -1,10 +1,20 @@
-# Big Data-PyFlink-PageRank
+# This is A Big Data Tool
+For the project itself, we need to decide on a Big Data tool that is either covered in class or on our own. Each person will be designated a sub-topic (i.e. Specific Function / Method; Certain Data Processing Structure).
 
-### Project Description
+## Group Tasks
 
-I honestly have no clue
+- [ ] Create Contributor Section
+    - [ ] Hyperlinks to Individual Profiles
+    - [ ] Insert image / headshot
+        - Idea: Hyperlink images to repos with fallback links at the bottom
+- [ ] Decide on group
 
-# Members:
+
+## Individual Tasks
+
+----
+
+## Members:
 
 ### [Matteo Antunez](https://github.com/matteoantunez)
 
@@ -20,4 +30,4 @@ Subtopic:
 
 ### [James Mullaney](https://github.com/JamesRMullaney)
 
-Subtopic: 
+Subtopic:
