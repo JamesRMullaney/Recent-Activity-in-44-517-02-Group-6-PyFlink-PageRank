@@ -17,9 +17,17 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 
 ## Members:
 
-| [Matteo Antunez](https://github.com/matteoantunez)  | Francesca Infranca  | [Thomas Tran](https://github.com/thomastran7)  | [James Mullaney](https://github.com/JamesRMullaney)  |
+| ![Matteo Portrait](img/IMG_1091.JPG)[Matteo Antunez](https://github.com/matteoantunez)  | Francesca Infranca  | [Thomas Tran](https://github.com/thomastran7)  | [James Mullaney](https://github.com/JamesRMullaney)  |
 |---|---|---|---| 
 
 
 ## Resources
 * https://www.tablesgenerator.com/markdown_tables#
+* https://ci.apache.org/projects/flink/flink-docs-master/api/python/
+    * Flink Python Documentation
+* https://neo4j.com/docs/graph-algorithms/current/algorithms/page-rank/
+    * Page rank algorithm description
+    * Web Mining students used PageRank??
+* https://networkx.org/documentation/stable/reference/algorithms/index.html
+    * NetworkX Algorithm documentation
+    * Python uses NetworkX to initate the Page Rank algorithm?
