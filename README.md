@@ -17,22 +17,9 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 
 ## Members:
 
-|   |   |   |   |
-|Matteo Antunez|Francesca Infranca|Thomas Tran|James Mullaney| 
+| [Matteo Antunez](https://github.com/matteoantunez)  | Francesca Infranca  | [Thomas Tran](https://github.com/thomastran7)  | [James Mullaney](https://github.com/JamesRMullaney)  |
+|---|---|---|---| 
 
 
-### [Matteo Antunez](https://github.com/matteoantunez)
-
-Subtopic:
-
-### Francesca Infranca
-
-Subtopic:
-
-### [Thomas Tran](https://github.com/thomastran7)
-
-Subtopic:
-
-### [James Mullaney](https://github.com/JamesRMullaney)
-
-Subtopic:
+## Resources
+* https://www.tablesgenerator.com/markdown_tables#
