@@ -23,7 +23,7 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 ## Subtopics:
 
 - Installation: Worked on by Francesca Infranca
-- PageRank job 1
+- PageRank job 1: Parsing, worked on by Thomas Tran
 - PageRank job 2: Calculate new Page rank, worked on by James Mullaney
 - PageRank job 3
 
