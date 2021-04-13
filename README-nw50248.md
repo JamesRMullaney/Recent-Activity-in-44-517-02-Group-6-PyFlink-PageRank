@@ -25,8 +25,7 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 - Installation: Worked on by Francesca Infranca
 - PageRank job 1: Parsing, worked on by Thomas Tran
 - PageRank job 2: Calculate new Page rank, worked on by James Mullaney
-- PageRank job 3
-
+- PageRank job 3: Map,store, order rank and page on rank | See top 10 Pages, By Matteo Antunez
 ## Resources
 * https://www.tablesgenerator.com/markdown_tables#
 * https://xebia.com/blog/wiki-pagerank-with-hadoop/
