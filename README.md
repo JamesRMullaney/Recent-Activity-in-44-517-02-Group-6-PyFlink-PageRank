@@ -22,10 +22,12 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 
 ## Subtopics:
 
+- [MacOs Installation]("tutorialFiles/job3/installingHomebrewAndFlink.md"): Installing Required Resources for MacOS for Flink
 - Installation: Worked on by Francesca Infranca
 - PageRank job 1: Parsing, worked on by Thomas Tran
 - PageRank job 2: Calculate new Page rank, worked on by James Mullaney
-- [PageRank job 3](tutorialFiles\job3\pageRankJob3.md): Map,store, order rank and page on rank | See top 10 Pages, By Matteo Antunez
+
 ## Resources
 * https://www.tablesgenerator.com/markdown_tables#
-* https://xebia.com/blog/wiki-pagerank-with-hadoop/
+* https://ci.apache.org/projects/flink/flink-docs-release-1.9/getting-started/tutorials/local_setup.html
+* https://brew.sh
