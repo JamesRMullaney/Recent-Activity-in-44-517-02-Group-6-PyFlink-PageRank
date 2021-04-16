@@ -16,7 +16,7 @@ Prior to beginnnig the Flink installation, we must verify we have specific appli
 
     <li> Within Terminal, enter the following commnad in its current directory. 
     <ul>
-        <li>Note: When running the command, you may be prompted for your passsword. Just type in your appleID password, if that is what you are logged in last time.</li>       
+        <li>Note: When running the c    ommand, you may be prompted for your passsword. Just type in your appleID password, if that is what you are logged in last time.</li>       
         <img src="/photo/Homebrew.png">
     </ul>
 
@@ -35,7 +35,7 @@ $ brew install apache-flink
 $ flink --version
 Version: _._._, Commit Id: ______
 ```
-<img src="./photo/installFlink.png">
+<img src="photo/installFlink.png">
 
 ## Start a Local Flink Cluster
 Once the installation has completed, we can now start working with Flink. To begin, start a local flink cluster by naviagting and alling the file.
@@ -44,6 +44,6 @@ Once the installation has completed, we can now start working with Flink. To beg
 cd ../../opt/homebrew/Cellar/apache-flink/1.12.2/libexec/bin   # Navigate to the bin folder
 sh start-cluster.sh # Call and open cluster file 
 ```
-<img src="./photo/start-cluster.png">
+<img src="photo/start-cluster.png">
 
 Once opened, you should notice that there is a single avaiable TaskManager instance available.
