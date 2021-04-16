@@ -35,6 +35,7 @@ $ brew install apache-flink
 $ flink --version
 Version: _._._, Commit Id: ______
 ```
+![install]("/./Iphoto/Images/installFlink.png")
 <img src="Images/installFlink.png">
 
 ## Start a Local Flink Cluster
