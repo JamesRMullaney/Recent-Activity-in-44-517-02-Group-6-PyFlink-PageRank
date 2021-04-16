@@ -17,7 +17,7 @@ Prior to beginnnig the Flink installation, we must verify we have specific appli
     <li> Within Terminal, enter the following commnad in its current directory. 
     <ul>
         <li>Note: When running the command, you may be prompted for your passsword. Just type in your appleID password, if that is what you are logged in last time.</li>
-        <img src="./photo/Homebrew.png"> </img>
+        <img src="/photo/Homebrew.png"> </img>
     </ul>
 
     <li> May Be Required: If you noticed that the installation prompts you to create a new <strong>PATH</strong>, run the two commands it prints out after the message. </li>
