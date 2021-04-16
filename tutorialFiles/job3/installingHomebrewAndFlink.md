@@ -35,12 +35,15 @@ $ brew install apache-flink
 $ flink --version
 Version: _._._, Commit Id: ______
 ```
+<img src="../photo/start-cluster.png">
 
 ## Start a Local Flink Cluster
-Once the installation has completed, we can now start working with Flink. To begin, start a local flink cluster and validate it is working using the Dispatcher's Web Frontend.
+Once the installation has completed, we can now start working with Flink. To begin, start a local flink cluster by naviagting and alling the file.
 
 ```Terminal
-cd /opt/homebrew/Cellar/apache-flink/1.12.2/libexec/bin/start-cluster.sh    # Start Flink
+cd ../../opt/homebrew/Cellar/apache-flink/1.12.2/libexec/bin   # Navigate to the bin folder
+sh start-cluster.sh # Call and open cluster file 
 ```
+<img src="./photo/start-cluster.png">
 
 Once opened, you should notice that there is a single avaiable TaskManager instance available.
