@@ -35,7 +35,7 @@ $ brew install apache-flink
 $ flink --version
 Version: _._._, Commit Id: ______
 ```
-<img src="../photo/start-cluster.png">
+<img src="./photo/installFlink.png">
 
 ## Start a Local Flink Cluster
 Once the installation has completed, we can now start working with Flink. To begin, start a local flink cluster by naviagting and alling the file.
