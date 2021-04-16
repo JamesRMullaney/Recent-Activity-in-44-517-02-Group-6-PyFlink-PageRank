@@ -13,5 +13,5 @@ Prior to beginnnig the Flink installation, we must verify some criteria.
     a. On your desktop, open Terminal.
     b. Within Terminal, enter the following commnad in its current directory.<br>
         > Note: When running the command, you may be prompted for your passsword. Just type in your appleID password, if that is what you are logged in last night.</br>
-    c. 
-
+    c. May Be Required: If you noticed that the installation prompts you to create a new <strong>PATH</strong>, run the two commands it prints out after the message d. Optional: Missing 
+    
