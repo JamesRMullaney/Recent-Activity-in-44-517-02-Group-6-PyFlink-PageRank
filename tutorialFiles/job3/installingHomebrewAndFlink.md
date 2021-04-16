@@ -10,8 +10,14 @@ Prior to beginnnig the Flink installation, we must verify some criteria.
     - Java is reuquired for this installation. If you are unsure if you have a valid Java version (1.8.0+ Version+), use the following command: ```  java -version ```.    
 2. After Java has been verified, begin the installation for [Homebrew]("https://brew.sh"). You can find the detailed tutorial instructions [here]("https://brew.sh"). Below are some general instructions / tips:   
     
-    a. On your desktop, open Terminal.
-    b. Within Terminal, enter the following commnad in its current directory.<br>
-        > Note: When running the command, you may be prompted for your passsword. Just type in your appleID password, if that is what you are logged in last night.</br>
-    c. May Be Required: If you noticed that the installation prompts you to create a new <strong>PATH</strong>, run the two commands it prints out after the message d. Optional: Missing 
-    
+    <ol>
+        <li>On your desktop, open Terminal.</li>
+
+        <li>Within Terminal, enter the following commnad in its current directory. Note: When running the command, you may be prompted for your passsword. Just type in your appleID password, if that is what you are logged in last night.</li>
+
+        <li> May Be Required: If you noticed that the installation prompts you to create a new <strong>PATH</strong>, run the two commands it prints out after the message. </li>
+
+        <li> Once the installation has completed (returned to command line input), enter <block> brew install wget </block>. This will downlaod additioanl assets that weren't installed in the original installation. </li>
+    </ol> 
+
+
