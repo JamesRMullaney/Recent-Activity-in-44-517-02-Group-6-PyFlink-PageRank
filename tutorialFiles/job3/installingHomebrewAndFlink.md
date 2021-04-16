@@ -22,9 +22,25 @@ Prior to beginnnig the Flink installation, we must verify we have specific appli
 
     <li> May Be Required: If you noticed that the installation prompts you to create a new <strong>PATH</strong>, run the two commands it prints out after the message. </li>
 
-    <li> Once the installation has completed (returned to command line input), enter <code style="code { color: orange; padding: .5em;
-    font-size: 105%; }>brew install wget</code>. This   will downlaod additioanl assets that weren't installed in the original installation. </li>
+    <li> Once the installation has completed (a.k.a. returned to command line input), enter:<div style="color: orange; padding: .5em; font-size: 105%;"}>brew install wget</div> This will downloadv b vv bbbvb additioanl assets that weren't installed in the original installation. </li>
     
     </ol> 
 
+## Download and Install Apache-Flink
+With Java and Homebrew installed locally on your Mac device, we can now procede to download and install Flink. To begin, use Homebrew to install Apache Flink.
 
+```Terminal
+$ brew install apache-flink
+...
+$ flink --version
+Version: _._._, Commit Id: ______
+```
+
+## Start a Local Flink Cluster
+Once the installation has completed, we can now start working with Flink. To begin, start a local flink cluster and validate it is working using the Dispatcher's Web Frontend.
+
+```Terminal
+cd /opt/homebrew/Cellar/apache-flink/1.12.2/libexec/bin/start-cluster.sh    # Start Flink
+```
+
+Once opened, you should notice that there is a single avaiable TaskManager instance available.
