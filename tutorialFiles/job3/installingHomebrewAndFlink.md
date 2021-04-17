@@ -14,7 +14,10 @@ Prior to beginnnig the Flink installation, we must verify we have specific appli
 
 4.  Within Terminal, enter the following commnad in its current directory. 
     
-    </ol> 
+    <code> $ brew install apache-flink </code>
+        
+5. (?) <strong>May Be Required:</strong> If you noticed that the installation prompts you to create a new <strong>PATH</strong>, run the two commands it prints out after the message. </li>
+    <p> Once the installation has completed (a.k.a. returned to command line input), enter:<div style="color: orange; padding: .5em; font-size: 105%;"}>brew install wget</div> This will downloadv b vv bbbvb additioanl assets that weren't installed in the original installation. </p>    </ol> 
 
 ## Download and Install Apache-Flink
 With Java and Homebrew installed locally on your Mac device, we can now procede to download and install Flink. To begin, use Homebrew to install Apache Flink.
