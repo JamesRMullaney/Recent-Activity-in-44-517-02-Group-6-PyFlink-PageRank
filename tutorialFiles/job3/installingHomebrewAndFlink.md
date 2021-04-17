@@ -14,13 +14,13 @@ Prior to beginnnig the Flink installation, we must verify we have specific appli
 
     <li> On your desktop, open Terminal. </li>
 
-    <li> Within Terminal, enter the following commnad in its current directory. 
-    <ul>
-        <li> Note: When running the c    ommand, you may be prompted for your passsword. Just type in your appleID password, if that is what you are logged in last time. </li>       
+    <li> Within Terminal, enter the following commnad in its current directory. </li>
+  s
         
-        ![](../photo/Images/Homebrew.png)
-    
-    </ul>
+        <code> $ brew install apache-flink </code>
+        
+        Note: When running the command, you may be prompted for your passsword. Just type in your appleID password, if that is what you are logged in last time.
+
 
     <li> May Be Required: If you noticed that the installation prompts you to create a new <strong>PATH</strong>, run the two commands it prints out after the message. </li>
 
@@ -40,7 +40,7 @@ Version: _._._, Commit Id: ______
 ![](../photo/Images/installFlink.png)
 
 ## Start a Local Flink Cluster
-Once the installation has completed, we can now start working with Flink. To begin, start a local flink cluster by naviagting and alling the file.
+Once we get Flink installed onto our device, we can then begin  and running our first Flink Cluster. To begin, 
 
 ```Terminal
 cd ../../opt/homebrew/Cellar/apache-flink/1.12.2/libexec/bin   # Navigate to the bin folder
