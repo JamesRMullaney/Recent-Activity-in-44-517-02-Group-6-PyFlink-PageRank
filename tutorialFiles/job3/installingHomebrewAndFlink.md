@@ -3,7 +3,7 @@
 # Apache Flink | Homebrew Installation (Local Setup)
 <line>
 
-![Rough Draft of Video]("https://app.vidgrid.com/embed/Svn99x1jJ2cE")
+<a href="https://use.vg/KpQwbv">Rought Draft of Presentaition</a>
 
 <line>
 Throughout the course, we experience the Windows side of Big Data Analysis and Development. Through careful reasearch and analysis, here is a brief tutorial on how to setup Flink (Homebrew is requried) onto your Mac machine.
