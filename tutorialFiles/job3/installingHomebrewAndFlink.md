@@ -30,8 +30,8 @@ $ brew install apache-flink
 $ flink --version
 Version: _._._, Commit Id: ______
 ```
-
-![](../photo/Images/installFlink.png)
+<img src=
+"../photo/Images/installFlink.png" width='144px' height='144px')
 
 ## Start a Local Flink Cluster
 Once we get Flink installed onto our device, we can then begin and run our first Flink Cluster. To begin, 
@@ -41,14 +41,13 @@ cd ../../opt/homebrew/Cellar/apache-flink/1.12.2/libexec/bin   # Navigate to the
 sh start-cluster.sh # Call and open cluster file 
 ```
 
-<img src="../photo/Images/start-cluster.png" width="300"
-height="500">
-![](../photo/Images/start-cluster.png)
+<img src="../photo/Images/start-cluster.png" width="144"
+height="144">
+
 
 Once the cluster has been created, we should be able to go to http://localhost:8081 and see the Flink dashboard with oen available asset. 
 
-![](../photo/Images/hostPage.png)
-
+<img src="../photo/Images/hostPage.png" width="144px" height="144p">
 
 # Optional: Read and Understand the Code: SocketWindowWordCount (Java)
 As developers, we work in an enviroment where change is constant. For instance, ten years ago, we were using programming languages that could be discontinued or improved to other versions. However, all conding works together, so the intial 'on-boarding' by an employee will take less and less time.
