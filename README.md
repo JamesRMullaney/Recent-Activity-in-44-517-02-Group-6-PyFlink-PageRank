@@ -1,4 +1,4 @@
-# Big Data: PyFlink & 
+# Big Data: PyFlink  
 For the project itself, we need to decide on a Big Data tool that is either covered in class or on our own. Each person will be designated a sub-topic (i.e. Specific Function / Method; Certain Data Processing Structure).
 
 ## Group Tasks
