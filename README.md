@@ -19,7 +19,7 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 
 ## Members:
 
-| <a href="https://github.com/matteoantunez"> ![Matteo Portrait](imgs\IMG_1091.JPG) </a> [Subtopic A:](404)  | Francesca Infranca  | [Thomas Tran](https://github.com/thomastran7)  | [James Mullaney](https://github.com/JamesRMullaney)  |
+| <a href="https://github.com/matteoantunez"> ![Matteo Portrait](imgs\IMG_1091.JPG) </a> [Subtopic A:](404)  | [James Mullaney](https://github.com/JamesRMullaney)   | [Thomas Tran](https://github.com/thomastran7)  | Francesca Infranca |
 |:---:|:---:|:---:|:---:| 
 
 ## Subtopics:
