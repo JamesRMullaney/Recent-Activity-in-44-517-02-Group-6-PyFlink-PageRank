@@ -45,7 +45,7 @@ sh start-cluster.sh # Call and open cluster file
 
 Once the cluster has been created, we should be able to go to http://localhost:8081 and see the Flink dashboard with oen available asset. 
 
-![](../../hoto/Images/hostPage.pngz
+![](../../photo/Images/hostPage.png)ß
 
 # Optional: Read and Understand the Code: SocketWindowWordCount (Java)
 As developers, we work in an enviroment where change is constant. For instance, ten years ago, we were using programming languages that could be discontinued or improved to other versions. However, all conding works together, so the intial 'on-boarding' by an employee will take less and less time.
@@ -127,7 +127,7 @@ For those who are curious, here is a short part of the SocketWindowWordCount fum
 <br>
 
 ## Run The Example
-So far, we have only done the Local Setup of Flink. To ensure we have everything working, we can try out the following Example!
+So far, ßwe have only done the Local Setup of Flink. To ensure we have everything working, we can try out the following Example!
 
 ### What's the Goal? 
 For the example, we will be reading from a socket once every 5 seconds. Through each itteration, we will grab the number of occurences for each distinct word in the socket.
@@ -148,10 +148,7 @@ Done With Inputs, all or just one? Send the end results out $ tail ⟶ ``` cd lo
 
 ## That's a Wrap!
 
-
-
-To prevent this situation from happening to you, don't forget to <strong>*close*</strong> the file!
-
-<code>
+Congradualations! You have completed the setup of Adobe Flink on MacO However, o prevent this situation from happening to you, don't forget to <strong>*close*</strong> the clustre1
+!<br><code>
 $ sh ./bin/stop-cluster.sh
 </code>  
