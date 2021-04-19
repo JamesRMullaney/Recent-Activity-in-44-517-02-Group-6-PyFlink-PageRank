@@ -3,11 +3,8 @@
 # Apache Flink | Homebrew Installation (Local Setup)
 <line>
 
-<a href="https://use.vg/KpQwbv">Rought Draft of Presentaition</a>
-
-<line>
 Throughout the course, we experience the Windows side of Big Data Analysis and Development. Through careful reasearch and analysis, here is a brief tutorial on how to setup Flink (Homebrew is requried) onto your Mac machine.
-
+ s
 # Prerequisite
 Prior to beginnnig the Flink installation, we must verify we have specific applications / services on our device.
 
@@ -33,8 +30,7 @@ $ brew install apache-flink
 $ flink --version
 Version: _._._, Commit Id: ______
 ```
-<img src=
-"../photo/Images/installFlink.png" width='144px' height='144px')
+![](../../photo/Images/installFlink.png)
 
 ## Start a Local Flink Cluster
 Once we get Flink installed onto our device, we can then begin and run our first Flink Cluster. To begin, 
@@ -44,13 +40,12 @@ cd ../../opt/homebrew/Cellar/apache-flink/1.12.2/libexec/bin   # Navigate to the
 sh start-cluster.sh # Call and open cluster file 
 ```
 
-<img src="../photo/Images/start-cluster.png" width="144"
-height="144">
+![](../../photo/Images/start-cluster.png)
 
 
 Once the cluster has been created, we should be able to go to http://localhost:8081 and see the Flink dashboard with oen available asset. 
 
-<img src="../photo/Images/hostPage.png" width="144px" height="144p">
+![](../../hoto/Images/hostPage.pngz
 
 # Optional: Read and Understand the Code: SocketWindowWordCount (Java)
 As developers, we work in an enviroment where change is constant. For instance, ten years ago, we were using programming languages that could be discontinued or improved to other versions. However, all conding works together, so the intial 'on-boarding' by an employee will take less and less time.
@@ -150,14 +145,13 @@ Done With Inputs, all or just one? Send the end results out $ tail ⟶ ``` cd lo
 
 * At the end of each time window, prints count <strong> if </strong> you aren't. 
 
-Grabs the Outside of class, I get a couple of magazines and the town newspaper. The biggest thing with technology is that technology will never stay the sam. It is ever-evolving, and we are on for the ride! 
 
 ## That's a Wrap!
 
-Don't you hate it when your dog starts barking at you because he smells food under your mask??? No wondering why my dog loves me XZD.
+
 
 To prevent this situation from happening to you, don't forget to <strong>*close*</strong> the file!
 
 <code>
 $ sh ./bin/stop-cluster.sh
-</code>
+</code>  
