@@ -25,7 +25,7 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 ## Subtopics:
 
 - [MacOs Installation](./tutorialFiles/job3/installingHomebrewAndFlink.md): Installing Required Resources for MacOS for Flink
-- Windows Installation: Installing on a Windows machine for pyflink 
+- [Windows Installation](./tutorialFiles/job1/InstallingPyflink.md: Installing on a Windows machine for pyflink 
 - PageRank job 1: Parsing, worked on by Thomas Tran
 - PageRank job 2: Calculate new Page rank, worked on by Francesca Infranca
 
