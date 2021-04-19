@@ -1,4 +1,4 @@
-# Big Data: PyFlink & 
+# Big Data: PyFlink  
 For the project itself, we need to decide on a Big Data tool that is either covered in class or on our own. Each person will be designated a sub-topic (i.e. Specific Function / Method; Certain Data Processing Structure).
 
 ## Group Tasks
@@ -22,6 +22,12 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 | <a href="https://github.com/matteoantunez"> ![Matteo Portrait](imgs\IMG_1091.JPG) </a> [Subtopic A:](404)  | Francesca Infranca  | [Thomas Tran](https://github.com/thomastran7)  | [James Mullaney](https://github.com/JamesRMullaney)  |
 |:---:|:---:|:---:|:---:| 
 
+## Subtopics:
+
+- [MacOs Installation](./tutorialFiles/job3/installingHomebrewAndFlink.md): Installing Required Resources for MacOS for Flink
+- Windows Installation: Installing on a Windows machine for pyflink 
+- PageRank job 1: Parsing, worked on by Thomas Tran
+- PageRank job 2: Calculate new Page rank, worked on by Francesca Infranca
 
 ## Resources
 * https://www.tablesgenerator.com/markdown_tables#
@@ -33,3 +39,7 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 * https://networkx.org/documentation/stable/reference/algorithms/index.html
     * NetworkX Algorithm documentation
     * Python uses NetworkX to initate the Page Rank algorithm?
+
+* https://ci.apache.org/projects/flink/flink-docs-release-1.9/getting-started/tutorials/local_setup.html
+* https://brew.sh
+
