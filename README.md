@@ -23,9 +23,9 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 ## Subtopics:
 
 - [MacOs Installation](./tutorialFiles/job3/installingHomebrewAndFlink.md): Installing Required Resources for MacOS for Flink
-- Installation: Worked on by Francesca Infranca
+- Installation: Worked on by James Mullaney
 - PageRank job 1: Parsing, worked on by Thomas Tran
-- PageRank job 2: Calculate new Page rank, worked on by James Mullaney
+- PageRank job 2: Calculate new Page rank, worked on by Francesca Infranca
 
 ## Resources
 * https://www.tablesgenerator.com/markdown_tables#
