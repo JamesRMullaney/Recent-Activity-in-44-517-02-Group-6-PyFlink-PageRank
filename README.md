@@ -31,6 +31,8 @@ For the project itself, we need to decide on a Big Data tool that is either cove
 
 ## Resources
 * https://www.tablesgenerator.com/markdown_tables#
+* https://ci.apache.org/projects/flink/flink-docs-release-1.12/dev/python/installation.html
+    * Documentation on how to install Pyflink
 * https://ci.apache.org/projects/flink/flink-docs-master/api/python/
     * Flink Python Documentation
 * https://neo4j.com/docs/graph-algorithms/current/algorithms/page-rank/
