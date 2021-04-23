@@ -4,7 +4,7 @@
 
 ## Members:
 
-| [Matteo Antunez](https://github.com/matteoantunez) [Subtopic A:](404)  | [James Mullaney](https://github.com/JamesRMullaney)   | [Thomas Tran](https://github.com/thomastran7)  | Francesca Infranca |
+| [Matteo Antunez](https://github.com/matteoantunez) | [James Mullaney](https://github.com/JamesRMullaney)   | [Thomas Tran](https://github.com/thomastran7)  | Francesca Infranca |
 |:---:|:---:|:---:|:---:| 
 
 ## Subtopics:
