@@ -9,7 +9,7 @@
 
 ## Subtopics:
 
-- [MacOs Installation](./tutorialFiles/job3/installingHomebrewAndFlink.md): Installing Required Resources for MacOS for Flink
+- [MacOs Installation](./tutorialFiles/job3/installingHomebrewAndFlink.md): Installing Required Resources for MacOS for Flink - [Video](https://app.vidgrid.com/view/IWFsU8E0Vt9L)
 - [Windows Installation](./tutorialFiles/job1/InstallingPyflink.md): Installing on a Windows machine for pyflink 
 - PageRank job 1: Parsing, worked on by Thomas Tran
 - PageRank job 2: Calculate new Page rank, worked on by Francesca Infranca
