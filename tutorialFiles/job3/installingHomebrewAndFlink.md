@@ -3,9 +3,11 @@
 # Apache Flink | Homebrew Installation (Local Setup)
 <line>
 
-Throughout the course, we experience the Windows side of Big Data Analysis and Development. Through careful reasearch and analysis, here is a brief tutorial on how to setup Flink (Homebrew is requried) onto your Mac machine.
- s
-# Prerequisite
+Throughout the course, we experience the Windows side of Big Data Analysis and Development. Through careful reasearch and analysis, here is a brief tutorial on how to setup Flink (Homebrew is requried) onto your Mac machines. 
+
+## Prerequisite
+<line>
+
 Prior to beginnnig the Flink installation, we must verify we have specific applications / services on our device.
 
 1. Install Java if you have not already
@@ -45,7 +47,7 @@ sh start-cluster.sh # Call and open cluster file
 
 Once the cluster has been created, we should be able to go to http://localhost:8081 and see the Flink dashboard with oen available asset. 
 
-![](../../photo/Images/hostPage.png)ß
+![](../../photo/Images/hostPage.png)
 
 # Optional: Read and Understand the Code: SocketWindowWordCount (Java)
 As developers, we work in an enviroment where change is constant. For instance, ten years ago, we were using programming languages that could be discontinued or improved to other versions. However, all conding works together, so the intial 'on-boarding' by an employee will take less and less time.
