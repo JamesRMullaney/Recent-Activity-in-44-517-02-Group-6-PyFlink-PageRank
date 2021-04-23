@@ -24,7 +24,13 @@ Prior to beginnnig the Flink installation, we must verify we have specific appli
     <code> $ brew install apache-flink </code>
         
 5. (?) <strong>May Be Required:</strong> If you noticed that the installation prompts you to create a new <strong>PATH</strong>, run the two commands it prints out after the message. </li>
-    <p> Once the installation has completed (a.k.a. returned to command line input), enter:<div style="color: orange; padding: .5em; font-size: 105%;"}>brew install wget</div> This will downloadv b vv bbbvb additioanl assets that weren't installed in the original installation. </p>    </ol> 
+    Once the installation has completed (a.k.a. returned to command line input), enter:
+    
+    ```Terminal
+    $ brew install wget
+    ``` 
+
+    This will download additioanl assets that weren't installed in the original installation. 
 
 ## Download and Install Apache-Flink
 With Java and Homebrew installed locally on your Mac device, we can now procede to download and install Flink. To begin, use Homebrew to install Apache Flink.
@@ -50,7 +56,7 @@ sh start-cluster.sh # Call and open cluster file
 
 Once the cluster has been created, we should be able to go to http://localhost:8081 and see the Flink dashboard with oen available asset. 
 
-![](../../photo/Images/hostPage.png)ß
+![](../../photo/Images/hostPage.png)
 
 # Optional: Read and Understand the Code: SocketWindowWordCount (Java)
 As developers, we work in an enviroment where change is constant. For instance, ten years ago, we were using programming languages that could be discontinued or improved to other versions. However, all conding works together, so the intial 'on-boarding' by an employee will take less and less time.
