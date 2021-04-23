@@ -4,7 +4,7 @@
 
 ## Steps:
 
-#### Ensure python version
+### Ensure python version
 
 Run the following command:
 ```
@@ -13,9 +13,9 @@ $ python --version
 
 **Important:** Your version of python must be above 3.5 for pyflink to work
 
-#### Install Pyspark
+### Install Pyspark
 
-###### For Google Colab
+##### For Google Colab
 Use:
 ```
 !pip install apache-flink
@@ -25,7 +25,7 @@ then you can import the package with:
 import pyflink
 ```
 
-###### For local install
+##### For local install
 Open powershell, and run:
 ```
 $ python -m pip install apache-flink 1.12.0
