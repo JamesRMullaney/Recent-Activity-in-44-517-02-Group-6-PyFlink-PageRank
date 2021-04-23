@@ -8,6 +8,10 @@ Prior to beginnnig the Flink installation, we must verify we have specific appli
 1. Install Java if you have not already
     - Java is reuquired for this installation. If you are unsure if you have a valid Java version (1.8.0+ Version+), use the following command: ```  java -version ```.    
 2. After Java has been verified, begin the installation for Homebrew. You can find the detailed tutorial instructions [here](https://brew.sh). Below are some general instructions | tips:   
+    * To install, please run the following code:
+    ```Terminal
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
 
     * Not all assets are installed during the main installation. In termial, run the follwoing code to get additional assets:
 
