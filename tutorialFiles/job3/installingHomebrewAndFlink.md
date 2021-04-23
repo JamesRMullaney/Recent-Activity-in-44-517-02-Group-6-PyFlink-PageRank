@@ -138,7 +138,7 @@ For those who are curious, here is a short part of the SocketWindowWordCount fum
 <br>
 
 ## Run The Example
-So far, ßœwe have only done the Local Setup of Flink. To ensure we have everything working, we can try out the following Example!
+So far, we have only done the Local Setup of Flink. To ensure we have everything working, we can try out the following Example!
 
 ### What's the Goal? 
 For the example, we will be reading from a socket once every 5 seconds. Through each itteration, we will grab the number of occurences for each distinct word in the socket.
