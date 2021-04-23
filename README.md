@@ -4,7 +4,7 @@
 
 ## Members:
 
-| <a href="https://github.com/matteoantunez"> ![Matteo Portrait](imgs\IMG_1091.JPG) </a> [Subtopic A:](404)  | [James Mullaney](https://github.com/JamesRMullaney)   | [Thomas Tran](https://github.com/thomastran7)  | Francesca Infranca |
+| [Matteo Antunez](https://github.com/matteoantunez) [Subtopic A:](404)  | [James Mullaney](https://github.com/JamesRMullaney)   | [Thomas Tran](https://github.com/thomastran7)  | Francesca Infranca |
 |:---:|:---:|:---:|:---:| 
 
 ## Subtopics:

@@ -24,6 +24,8 @@ Prior to beginnnig the Flink installation, we must verify we have specific appli
     <p> Once the installation has completed (a.k.a. returned to command line input), enter:<div style="color: orange; padding: .5em; font-size: 105%;"}>brew install wget</div> This will downloadv b vv bbbvb additioanl assets that weren't installed in the original installation. </p>    </ol> 
 
 ## Download and Install Apache-Flink
+<line>
+
 With Java and Homebrew installed locally on your Mac device, we can now procede to download and install Flink. To begin, use Homebrew to install Apache Flink.
 
 ```Terminal
@@ -35,6 +37,8 @@ Version: _._._, Commit Id: ______
 ![](../../photo/Images/installFlink.png)
 
 ## Start a Local Flink Cluster
+<line>
+
 Once we get Flink installed onto our device, we can then begin and run our first Flink Cluster. To begin, 
 
 ```Terminal
@@ -49,7 +53,9 @@ Once the cluster has been created, we should be able to go to http://localhost:8
 
 ![](../../photo/Images/hostPage.png)
 
-# Optional: Read and Understand the Code: SocketWindowWordCount (Java)
+## Optional: Read and Understand the Code: SocketWindowWordCount (Java)
+<line>
+
 As developers, we work in an enviroment where change is constant. For instance, ten years ago, we were using programming languages that could be discontinued or improved to other versions. However, all conding works together, so the intial 'on-boarding' by an employee will take less and less time.
 
 For those who are curious, here is a short part of the SocketWindowWordCount fumction for you to analyze and make comments on!
