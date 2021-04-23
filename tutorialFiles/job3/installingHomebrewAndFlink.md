@@ -3,16 +3,19 @@
 # Apache Flink | Homebrew Installation (Local Setup)
 <line>
 
-Throughout the course, we experience the Windows side of Big Data Analysis and Development. Through careful reasearch and analysis, here is a brief tutorial on how to setup Flink (Homebrew is requried) onto your Mac machines. 
-
-## Prerequisite
-<line>
-
 Prior to beginnnig the Flink installation, we must verify we have specific applications / services on our device.
 
 1. Install Java if you have not already
     - Java is reuquired for this installation. If you are unsure if you have a valid Java version (1.8.0+ Version+), use the following command: ```  java -version ```.    
-2. After Java has been verified, begin the installation for [Homebrew]("https://brew.sh"). You can find the detailed tutorial instructions [here]("https://brew.sh"). Below are some general instructions | tips:   
+2. After Java has been verified, begin the installation for Homebrew. You can find the detailed tutorial instructions [here](https://brew.sh). Below are some general instructions | tips:   
+
+    * Not all assets are installed during the main installation. In termial, run the follwoing code to get additional assets:
+
+    ```Terminal
+    $ brew install wget
+     ``` 
+
+     * For additioanl information, please see [Homebrew Documentation](https://docs.brew.sh)
     
 3. On your desktop, open Terminal. </li>
 
@@ -24,8 +27,6 @@ Prior to beginnnig the Flink installation, we must verify we have specific appli
     <p> Once the installation has completed (a.k.a. returned to command line input), enter:<div style="color: orange; padding: .5em; font-size: 105%;"}>brew install wget</div> This will downloadv b vv bbbvb additioanl assets that weren't installed in the original installation. </p>    </ol> 
 
 ## Download and Install Apache-Flink
-<line>
-
 With Java and Homebrew installed locally on your Mac device, we can now procede to download and install Flink. To begin, use Homebrew to install Apache Flink.
 
 ```Terminal
@@ -37,8 +38,6 @@ Version: _._._, Commit Id: ______
 ![](../../photo/Images/installFlink.png)
 
 ## Start a Local Flink Cluster
-<line>
-
 Once we get Flink installed onto our device, we can then begin and run our first Flink Cluster. To begin, 
 
 ```Terminal
@@ -51,11 +50,9 @@ sh start-cluster.sh # Call and open cluster file
 
 Once the cluster has been created, we should be able to go to http://localhost:8081 and see the Flink dashboard with oen available asset. 
 
-![](../../photo/Images/hostPage.png)
+![](../../photo/Images/hostPage.png)ß
 
-## Optional: Read and Understand the Code: SocketWindowWordCount (Java)
-<line>
-
+# Optional: Read and Understand the Code: SocketWindowWordCount (Java)
 As developers, we work in an enviroment where change is constant. For instance, ten years ago, we were using programming languages that could be discontinued or improved to other versions. However, all conding works together, so the intial 'on-boarding' by an employee will take less and less time.
 
 For those who are curious, here is a short part of the SocketWindowWordCount fumction for you to analyze and make comments on!
@@ -135,7 +132,7 @@ For those who are curious, here is a short part of the SocketWindowWordCount fum
 <br>
 
 ## Run The Example
-So far, ßwe have only done the Local Setup of Flink. To ensure we have everything working, we can try out the following Example!
+So far, ßœwe have only done the Local Setup of Flink. To ensure we have everything working, we can try out the following Example!
 
 ### What's the Goal? 
 For the example, we will be reading from a socket once every 5 seconds. Through each itteration, we will grab the number of occurences for each distinct word in the socket.
